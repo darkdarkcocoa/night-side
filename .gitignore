@@ -1,0 +1,16 @@
+# Launcher source is kept local; the repository ships binaries only
+launcher/
+
+# Build artifacts
+dist/
+
+# Local launcher state
+settings.json
+
+# Never commit game data: the repository must stay free of copyrighted
+# NIGHT.EXE / NIGHT.RES content (original or patched).
+NIGHT.EXE
+NIGHT.exe
+NIGHT.RES
+*.original
+test_game/
