@@ -50,8 +50,8 @@
 
 ## 게임 조작 (NIGHT SIDE)
 
-- 방향키: 이동 / CTRL·ALT·SPACE(또는 Z): 기본 기술
-- SHIFT, SHIFT+ALT, SHIFT+CTRL: 캐릭터별 강기술
+- 방향키: 이동
+- Z / X / C: 공격
 - 타이틀에서 NIGHT SIDE 진입 후 방향키로 캐릭터 선택, ENTER/SPACE 결정
 
 ## 폴더 구성
