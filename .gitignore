@@ -14,3 +14,6 @@ NIGHT.exe
 NIGHT.RES
 *.original
 test_game/
+
+# Patcher source is kept local; the repository ships binaries only
+patcher/
